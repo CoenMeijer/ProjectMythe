@@ -2,10 +2,20 @@
 using System.Collections;
 
 public class DreamScript : MonoBehaviour {
+
+
+	// -- Properties -- //
+
+	// Sound
 	public AudioClip sound;
+
+	// Range
 	public bool inRange = false;
 
-	public void DeathSound(){
+
+	// Audio function
+	public void DeathSound()
+	{
 		AudioSource.PlayClipAtPoint(sound, transform.position);
 	}
 }

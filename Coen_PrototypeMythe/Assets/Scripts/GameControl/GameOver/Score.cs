@@ -2,19 +2,36 @@
 using System.Collections;
 
 public class Score : MonoBehaviour {
-	public int nightmaresTapped;
-	public int dreamsTapped;
-	private GUIStyle style;
 
+
+	// -- Properties -- //
+
+	// Nightmare count
+	public int nightmaresTapped;
+
+	// Dream count
+	public int dreamsTapped;
+
+	// Score
 	public int score;
+
+	// Nightmare score
 	public int nightmareScore;
+
+	// Dream score
 	public int dreamScore;
 
-	void  Update(){
+
+	// GUIStyle
+	private GUIStyle style;
+
+	void  Update()
+	{
 		scoreTo ();
 	}
 
-	 public void scoreTo(){
+	 public void scoreTo()
+	{
 		nightmareScore = nightmaresTapped * 10;
 		dreamScore = dreamsTapped * 10;
 		score = nightmareScore - dreamScore;
