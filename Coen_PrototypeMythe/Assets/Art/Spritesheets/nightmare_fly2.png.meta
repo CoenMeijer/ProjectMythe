@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 134c1fdfdc6ce7f4fb58c96aa3ccb839
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: nightmare_fly2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 188
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 905
+        width: 217
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 902
+        width: 178
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 912
+        width: 178
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_4
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 910
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 774
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 763
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 756
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 756
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 756
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: nightmare_fly2_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 642
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 649
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 649
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: nightmare_fly2_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 651
+        width: 178
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

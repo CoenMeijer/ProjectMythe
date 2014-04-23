@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 4e91bcbb844eb464a8ce514c62e31c0f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: water_lelie_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3745
+        width: 184
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3747
+        width: 184
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_2
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3745
+        width: 184
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3747
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_4
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 3745
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_5
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 3747
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3375
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3377
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3375
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_9
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3377
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_10
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 3375
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_11
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 3377
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3005
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3007
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_14
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 3005
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 3007
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_16
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 3005
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_17
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 3007
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2635
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2637
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2635
+        width: 184
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_21
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2637
+        width: 186
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_22
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2635
+        width: 186
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_23
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2637
+        width: 188
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2265
+        width: 188
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2267
+        width: 190
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2265
+        width: 190
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2267
+        width: 192
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_28
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2265
+        width: 192
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_29
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2267
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1895
+        width: 196
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1897
+        width: 198
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1895
+        width: 200
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_33
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1897
+        width: 202
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_34
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1895
+        width: 206
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_35
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1897
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1525
+        width: 210
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1527
+        width: 210
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1525
+        width: 214
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_39
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1527
+        width: 216
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_40
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1525
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_41
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1527
+        width: 220
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1155
+        width: 222
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_43
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1157
+        width: 224
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_44
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1155
+        width: 226
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_45
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1157
+        width: 228
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1155
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_47
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1157
+        width: 232
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 785
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: water_lelie_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 787
+        width: 236
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
